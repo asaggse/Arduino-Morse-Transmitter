@@ -1,6 +1,6 @@
 # 🚀 Arduino Morse Transmitter
 
-<a href="https://www.tinkercad.com/things/gMp9JUHvnKT-arduino-morse-transmitter?sharecode=iiCzuPzltxJP55eKIdDRqh5C4xWOeNkPgKlRkWTm9w0" target="_blank">
+<a href="https://www.tinkercad.com/things/gMp9JUHvnKT-arduino-morse-transmitter?sharecode=iiCzuPzltxJP55eKIdDRqh5C4xWOeNkPgKlRkWTm9w0" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Simulated%20in-TinkerCAD-orange?logo=autodesk" alt="TinkerCAD Circuit Design">
 </a>
 
@@ -30,6 +30,6 @@ Perfect for learning telegraphy, wireless communication demos, or accessibility 
 3. Open Serial Monitor (9600 baud)
 4. Type message → Send
 
-<a href="https://www.tinkercad.com/things/gMp9JUHvnKT-arduino-morse-transmitter?sharecode=iiCzuPzltxJP55eKIdDRqh5C4xWOeNkPgKlRkWTm9w0" target="_blank">
+<a href="https://www.tinkercad.com/things/gMp9JUHvnKT-arduino-morse-transmitter?sharecode=iiCzuPzltxJP55eKIdDRqh5C4xWOeNkPgKlRkWTm9w0" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Interactive%20Simulation-TinkerCAD-blue" alt="Open in TinkerCAD">
 </a>
