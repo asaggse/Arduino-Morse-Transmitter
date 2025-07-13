@@ -1,11 +1,13 @@
 # 🚀 Arduino Morse Transmitter
 
-[![TinkerCAD Circuit Design](https://img.shields.io/badge/Simulated%20in-TinkerCAD-orange?logo=autodesk)](https://www.tinkercad.com/things/gMp9JUHvnKT)
+<a href="https://www.tinkercad.com/things/gMp9JUHvnKT-arduino-morse-transmitter?sharecode=iiCzuPzltxJP55eKIdDRqh5C4xWOeNkPgKlRkWTm9w0" target="_blank">
+  <img src="https://img.shields.io/badge/Simulated%20in-TinkerCAD-orange?logo=autodesk" alt="TinkerCAD Circuit Design">
+</a>
 
 **Translates text to Morse code with dual sensory output - visual (LED) and audible (piezo buzzer).**  
 Perfect for learning telegraphy, wireless communication demos, or accessibility projects!
 
-![Arduino Morse Transmitter Circuit](diagram.png)  
+![Arduino Morse Transmitter Circuit](assets/diagram.png)  
 *Circuit design created with TinkerCAD Online*
 
 ## ✨ Features
@@ -22,8 +24,12 @@ Perfect for learning telegraphy, wireless communication demos, or accessibility 
   - All alphanumeric characters (A-Z, 0-9)
   - Space-aware word separation
 
----
+## ⚡ Quick Start
+1. Open `Morse_Transmitter.ino` in Arduino IDE
+2. Upload to board
+3. Open Serial Monitor (9600 baud)
+4. Type message → Send
 
-## 🎮 Interactive Simulation
-[![Open in TinkerCAD](https://img.shields.io/badge/Open%20Simulation-TinkerCAD-blue)](https://www.tinkercad.com/things/gMp9JUHvnKT)  
-Explore the virtual prototype before building the physical circuit!
+<a href="https://www.tinkercad.com/things/gMp9JUHvnKT-arduino-morse-transmitter?sharecode=iiCzuPzltxJP55eKIdDRqh5C4xWOeNkPgKlRkWTm9w0" target="_blank">
+  <img src="https://img.shields.io/badge/Interactive%20Simulation-TinkerCAD-blue" alt="Open in TinkerCAD">
+</a>
